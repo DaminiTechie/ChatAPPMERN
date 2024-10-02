@@ -1,0 +1,8 @@
+# Handle line endings automatically for text files
+* text=auto
+
+# Define how certain types of files should be treated
+*.js text
+*.html text
+*.css text
+*.md text
